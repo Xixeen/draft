@@ -54,7 +54,7 @@ git config --global user.email "your@email.com"
 
 * 在您的仓库中，单击`Code`，并在`HTTPS`选项卡中单击复制按钮
 
-<img src="https://pan.tavin.cn/p/VnetOnedriveCN/pic/202305201252379.png" alt="image-20230520123633849" style="max-width: 50%;" /> 
+<img src="https://pan.tavin.cn/p/VnetOnedriveCN/pic/202305201252379.png" alt="image-20230520123633849" style="max-width:50%;" /> 
 
 #### Clone仓库到本地
 
