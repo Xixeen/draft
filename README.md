@@ -10,18 +10,16 @@
 ### 下载与安装
 
 - 前往[Git - Downloads](https://git-scm.com/downloads)下载，选择您的系统并下载。对于大多数Windows用户来说，选择`Standalone Installer`下的`64-bit Git for Windows Setup`即可
-
 - 打开并安装。其中有部分详细设置，在此不详细描述。对于本教程而言，您可以一路选择`Next`最后·`Install`
-
 - 安装后，按下<kbd>WindowsR</kbd>+<kbd>R</kbd>键输入`cmd`后确认，在打开的命令行窗口中输入
 
-  ```cmd
-  git --version
-  ```
+```cmd
+git --version
+```
 
-  出现相关版本信息，即安装成功
+​	出现相关版本信息，即安装成功
 
-<img src="https://pan.tavin.cn/p/VnetOnedriveCN/pic/202305201112646.png" alt="image-20230520111227675" style="zoom: 67%;" /> 
+​	<img src="https://pan.tavin.cn/p/VnetOnedriveCN/pic/202305201112646.png" alt="image-20230520111227675" style="zoom: 67%;" /> 
 
 ### 基础配置
 
