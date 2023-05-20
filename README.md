@@ -1,5 +1,7 @@
 # 使用Git向OpenWHU/WHUCAO贡献资料
 
+[TOC]
+
 ## 前言
 
 > 本文将从命令行Git、Github Desktop两个不同的使用方式出发，简单讲述Git的基本工作流程，以使读者可以使用Git向OpenWHU/WHUCAO贡献资料
